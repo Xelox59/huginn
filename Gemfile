@@ -38,7 +38,7 @@ gem 'net-ftp'
 gem 'net-ftp-list'                # FtpsiteAgent
 gem 'rturk', '~> 2.12.1'          # HumanTaskAgent
 gem 'slack-notifier', '~> 1.5.1'  # SlackAgent
-gem 'twilio-ruby', '~> 7.2.2'    # TwilioAgent
+gem 'twilio-ruby', '~> 7.2.3'    # TwilioAgent
 gem 'xmpp4r', '~> 0.5.6'          # JabberAgent
 
 # Weibo Agents
@@ -113,7 +113,7 @@ gem 'json', '~> 2.7', '>= 2.7.2'
 gem 'jsonpath', '~> 1.1', '>= 1.1.5'
 gem 'kaminari', '~> 1.2', '>= 1.2.2'
 gem 'kramdown'
-gem 'liquid', '~> 5.5'
+gem 'liquid', '~> 5.5', '>= 5.5.1'
 gem 'loofah', '~> 2.22'
 gem 'mail', '>= 2.8.1'
 gem 'mini_magick', ">= 4.12.0"

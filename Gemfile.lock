@@ -477,7 +477,7 @@ GEM
     libv8-node (16.10.0.0-arm64-darwin)
     libv8-node (16.10.0.0-x86_64-darwin)
     libv8-node (16.10.0.0-x86_64-linux)
-    liquid (5.5.0)
+    liquid (5.5.1)
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -801,7 +801,7 @@ GEM
     trailblazer-option (0.1.2)
     treetop (1.6.12)
       polyglot (~> 0.3)
-    twilio-ruby (7.2.2)
+    twilio-ruby (7.2.3)
       faraday (>= 0.9, < 3.0)
       jwt (>= 1.5, < 3.0)
       nokogiri (>= 1.6, < 2.0)
@@ -901,7 +901,7 @@ DEPENDENCIES
   kaminari (~> 1.2, >= 1.2.2)
   kramdown
   letter_opener_web (~> 2.0)
-  liquid (~> 5.5)
+  liquid (~> 5.5, >= 5.5.1)
   listen (~> 3.9.0)
   loofah (~> 2.22)
   mail (>= 2.8.1)
@@ -952,7 +952,7 @@ DEPENDENCIES
   sprockets
   terser
   tumblr_client (~> 0.8.6)!
-  twilio-ruby (~> 7.2.2)
+  twilio-ruby (~> 7.2.3)
   twitter!
   twitter-stream!
   typhoeus (~> 1.4.1)
